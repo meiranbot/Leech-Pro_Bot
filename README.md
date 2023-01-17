@@ -3,6 +3,8 @@
 ## 👉 [Orginal Repository](https://github.com/gautamajay52/TorrentLeech-Gdrive)
 
 
+[![Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/meiranbot/Leech-Pro_Bot)
+
 
 # Benefits :-
     ✓ Google Drive link cloning using gclone.(wip)
